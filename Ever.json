@@ -1,5 +1,5 @@
 {
-  "spider":"clan://tvb/0822.jar",
+  "spider":"https://Bestwzy.github.io/TVBox/0822.jar",
   "jars":{ "ja66":"clan://tvb/quanji.jar", "ja67":"clan://tvb/ddd.jar" },
  "sites":[         
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
